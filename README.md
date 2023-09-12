@@ -1,5 +1,5 @@
 # Visiope_Project
-Computer Vision on Embedded Devices - Object Recognition and Energy analisys
+Computer Vision on Embedded Devices - Object Recognition and Energy analysis
 
 Object detection is widely used for face detection, vehicle detection, pedestrian counting, web images, security systems and self-driving cars. In this project, we’ll work with the Freenove Robot Dog Kit for Raspberry Pi 4, make it explore the environment and perform object recognition using the camera already on board.
 
